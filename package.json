@@ -1,0 +1,19 @@
+{
+  "name": "codeaway",
+  "version": "1.0.0",
+  "description": "Free bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmushtaq21/codeaway.git"
+  },
+  "author": "Michael Kolodny",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/rmushtaq21/codeaway/issues"
+  },
+  "homepage": "https://github.com/rmushtaq21/codeaway#readme"
+}
